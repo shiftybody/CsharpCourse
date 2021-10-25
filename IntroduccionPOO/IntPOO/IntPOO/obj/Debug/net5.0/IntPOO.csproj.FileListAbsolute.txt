@@ -1,0 +1,16 @@
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\bin\Debug\net5.0\IntPOO.exe
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\bin\Debug\net5.0\IntPOO.deps.json
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\bin\Debug\net5.0\IntPOO.runtimeconfig.json
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\bin\Debug\net5.0\IntPOO.runtimeconfig.dev.json
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\bin\Debug\net5.0\IntPOO.dll
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\bin\Debug\net5.0\ref\IntPOO.dll
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\bin\Debug\net5.0\IntPOO.pdb
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\obj\Debug\net5.0\IntPOO.csproj.AssemblyReference.cache
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\obj\Debug\net5.0\IntPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\obj\Debug\net5.0\IntPOO.AssemblyInfoInputs.cache
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\obj\Debug\net5.0\IntPOO.AssemblyInfo.cs
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\obj\Debug\net5.0\IntPOO.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\obj\Debug\net5.0\IntPOO.dll
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\obj\Debug\net5.0\ref\IntPOO.dll
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\obj\Debug\net5.0\IntPOO.pdb
+C:\Users\david\Documents\CsharpCourse\IntroduccionPOO\IntPOO\IntPOO\obj\Debug\net5.0\IntPOO.genruntimeconfig.cache
